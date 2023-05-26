@@ -1,6 +1,6 @@
 # Hello, I'm Dean 👋  
 I'm passionate about many things, programming being one of the main things at the moment.  
-This is where I save my personal code and learn from other much better programmers than myself 😁.  
+This is where I save my personal code and learn from other much better programmers than myself 😁
 
 This GitHub profile and the repos contained within are all part of my 'Best I got right now' package. They are the reflections of the best I could do at the time.  
 The bar will continue to be raised because excellence is constantly being redefined and there's way too much knowledge to obtain in a single human lifetime 😵
