@@ -1,5 +1,5 @@
 # Hello, I'm Dean 👋  
-<img src="images/me.jpg" alt="Me" style="max-width:400px"/>  
+<img src="images/me.jpg" alt="Me" style="max-width:250px"/>  
 
 
 ## Welcome to my GitHub profile
