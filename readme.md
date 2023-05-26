@@ -25,4 +25,5 @@ The bar will continue to be raised because excellence is constantly being redefi
 - [PowerShell Learnings 📖](https://github.com/dtammam/PowerShell-Scripts): A repo of random and ongoing learnings with PowerShell, my current primary language
 
 Thanks for reading 🙂
+## Summarized in an Image
 <img src="images/me.jpg" alt="Me" style="max-width:250px"/>  
