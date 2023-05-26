@@ -1,8 +1,4 @@
 # Hello, I'm Dean 👋  
-<img src="images/me.jpg" alt="Me" style="max-width:250px"/>  
-
-
-## Welcome to my GitHub profile
 I'm passionate about many things, programming being one of the main things at the moment.  
 This is where I save my personal code and learn from other much better programmers than myself 😁.  
 
@@ -29,3 +25,4 @@ The bar will continue to be raised because excellence is constantly being redefi
 - [PowerShell Learnings 📖](https://github.com/dtammam/PowerShell-Scripts): A repo of random and ongoing learnings with PowerShell, my current primary language
 
 Thanks for reading 🙂
+<img src="images/me.jpg" alt="Me" style="max-width:250px"/>  
