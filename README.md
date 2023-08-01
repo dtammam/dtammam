@@ -6,7 +6,6 @@ The bar will continue to be raised because excellence is constantly being redefi
 ## About Me
 - 🫠 Just a dude doing stuff and things
 - 💿 A professional Endpoint Engineer primarily scripting in a hybrid Azure Windows enterprise environment
-- 🌱 Currently learning JavaScript for interacting with the web and interfacing with AI systems
 - 🚶🏻 Love exercising (primarily walking and Dance Dance Revolution)
 - 🧑🏻‍🏭 You can also find me on [LinkedIn](https://www.linkedin.com/in/dean-tammam-15b4775a/)
 
