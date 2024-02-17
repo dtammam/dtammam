@@ -19,7 +19,7 @@ The bar will continue to be raised because excellence is constantly being redefi
 ## Recent Projects
 - [ddr-picker ⬅️⬇️⬆️➡️](https://github.com/dtammam/ddr-picker): A Dance Dance Revolution front-end interface for selecting multiple games
 - [Mothership on Main 🛸](https://github.com/dtammam/Mothership-on-Main): A browser extension that allows for an optimized custom homepage
-- [PowerShell Learnings 📖](https://github.com/dtammam/PowerShell-Scripts): A repo of random and ongoing learnings with PowerShell
+- [powershell-playground 📖](https://github.com/dtammam/PowerShell-Scripts): A repo of random and ongoing learnings with PowerShell
 
 ## Visual Representation
 <img src="images/me.jpg" alt="Me" style="max-width:250px"/>  
